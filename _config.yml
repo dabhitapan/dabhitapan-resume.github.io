@@ -17,11 +17,11 @@ resume_title:                   "Student"
 resume_contact_email:           "tapandabhi99@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "-"
-resume_contact_address:         "-"
+# resume_contact_telephone:       "-"
+# resume_contact_address:         "-"
 
-resume_header_contact_info:     "- • - • -"
-display_header_contact_info:    "false"
+# resume_header_contact_info:     "- • - • -"
+# display_header_contact_info:    "false"
 
 resume_header_intro: "<p>To work in an organization with hard work and full dedication and gain as much as practical knowledge as possible.Always willing and excited to learn new technology and be up to date, also find solutions to problems using technology</p>"
 
