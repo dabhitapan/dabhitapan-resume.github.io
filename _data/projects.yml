@@ -8,3 +8,12 @@
   duration: 2018 &mdash; Present
   # url: "#"
   description: BLUWINGS is a local weekly meetup in SEti where we share opportunities to volunteer in the community and organize support for Students in need of assistance that the community can provide.
+
+# Google Assistant App
+- project: Touch India
+  role: Developer
+  duration: 2018 &mdash; Present
+  url: "https://assistant.google.com/services/a/uid/00000051536af973?hl=en&source=web"
+  description: Have you ever wanted to know more about India! Well Touch India has the answers! Learn all about the country India, including facts about it's history and culture. You can come back for new facts all the time!
+               To talk to it just say ok google talk to Touch India on your google assistant.
+               
